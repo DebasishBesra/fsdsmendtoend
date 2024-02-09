@@ -26,5 +26,7 @@ git pull
 '''
 
 '''
+
 bash your_file_name.sh
+
 '''
