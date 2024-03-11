@@ -18,7 +18,7 @@ class DataIngestionConfig:
 
 
 class DataIngestion:
-    def __init__(self):
+    def __init__(self):   #Constructor
         self.ingestion_config = DataIngestionConfig()
 
     def initiate_data_ingestion(self):
